@@ -18,4 +18,10 @@ Besides technology, I am passionate about chinese language and culture
 
 ### Projects 💡
 
+
 ### Contact me! 📱
+
+If you wanna know more, you can contact me!
+- WhatsApp: +52 999 280 4555 or https://wa.link/6q80de
+- Email: andres22jld@gmail.com
+- LinkedIn: https://www.linkedin.com/in/andreslopez-developer/
