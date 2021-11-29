@@ -17,9 +17,12 @@ Besides technology, I am passionate about chinese language and culture
 - HTML & CSS
 
 ### Projects 💡
+
 #### HSK Toolbox
 ![alt text](https://github.com/javlopezdi/javlopezdi/blob/main/hsktoolbox.png?raw=true)
+
 #### Dogs App
+![alt text](https://github.com/javlopezdi/javlopezdi/blob/main/dogspi.png?raw=true)
 
 ### Contact me! 📱
 
