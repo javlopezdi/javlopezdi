@@ -2,8 +2,8 @@
 
 ### About me 👨‍💻 
 I am a Full Stack Developer with experience designing, building, testing and deploying Full Stack Web Applications.
-I am also a Physical Engineer, so if your project requires Data Analysis, Math or Physics I can certainly help you.
-Besides technology, I am passionate about chinese language and culture 
+I also have a background as a Physics Engineer, so if your web project requires some complex Math or Physics I can certainly help you.
+Besides technology, I am passionate about chinese language and culture, as well as having experience working with an international team.
 
 ### Technologies 💻
 - JavaScript
